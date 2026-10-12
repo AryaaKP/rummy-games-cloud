@@ -1,9 +1,14 @@
 # Rummy Games All Official Repository | rummy-games.cloud
 
+[![Live Website / GitHub Pages](https://img.shields.io/badge/Live%20Website-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://AryaaKP.github.io/rummy-games-cloud/)
 [![Official Website](https://img.shields.io/badge/Official%20Site-rummy-games.cloud-brightgreen?style=for-the-badge)](https://rummy-games.cloud)
 [![Direct Referral](https://img.shields.io/badge/Direct%20Download-Claim%20₹500%20-%20₹1500%20Bonus-gold?style=for-the-badge)](https://rummy-games.cloud/)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20VIP-blue?style=for-the-badge)](https://t.me/winrealcash500)
 [![License](https://img.shields.io/badge/Fair%20Play-100%25%20Verified%20RNG-blueviolet?style=for-the-badge)](https://rummy-games.cloud)
+
+> 🌐 **Live Website / GitHub Pages:** [https://AryaaKP.github.io/rummy-games-cloud/](https://AryaaKP.github.io/rummy-games-cloud/)
+> 
+> 🔗 **Official Domain Mirror:** [https://rummy-games.cloud](https://rummy-games.cloud) | ⬇ **Direct APK Referral:** [₹500 - ₹1500 Bonus](https://rummy-games.cloud/)
 
 Welcome to the definitive, fully humanized documentation and web repository for **Rummy Games All** ([https://rummy-games.cloud](https://rummy-games.cloud)). This documentation serves as a comprehensive reference guide for users, players, developers, and community managers seeking verified APK download links, mathematical fairness disclosures, problem-solving walkthroughs, and organic search term optimization.
 
@@ -60,6 +65,7 @@ To dominate organic Google, Bing, and YouTube searches, this repository directly
 | :--- | :--- |
 | **Application Title** | Rummy Games All (Official Release 2026) |
 | **Canonical Domain** | [`https://rummy-games.cloud`](https://rummy-games.cloud) |
+| **Live Website (GitHub Pages)** | [`https://AryaaKP.github.io/rummy-games-cloud/`](https://AryaaKP.github.io/rummy-games-cloud/) |
 | **Theme / Aesthetic** | Midnight Astral Indigo (Hex: `#4F46E5` / `#0E0D2C`) |
 | **Active Referral CTA Link** | [`https://rummy-games.cloud/`](https://rummy-games.cloud/) |
 | **Official VIP Telegram** | [`https://t.me/winrealcash500`](https://t.me/winrealcash500) |
@@ -197,5 +203,6 @@ Aviator ek cryptographic crash game hai jisme multiplier har round me randomly c
 This game involves an element of financial risk and may be habit-forming. Please play responsibly and within your financial limits. Participation is strictly restricted to persons aged 18 years and above. Not applicable in territories where local legislation restricts online skill-based cash competitions (such as Andhra Pradesh, Telangana, Assam, Odisha, and Nagaland).
 
 - **Official Web Domain:** [https://rummy-games.cloud](https://rummy-games.cloud)
+- **Live Website (GitHub Pages):** [https://AryaaKP.github.io/rummy-games-cloud/](https://AryaaKP.github.io/rummy-games-cloud/)
 - **Direct Referral Installation:** [https://rummy-games.cloud/](https://rummy-games.cloud/)
 - **Community VIP Telegram:** [https://t.me/winrealcash500](https://t.me/winrealcash500)
