@@ -1,0 +1,23 @@
+{
+  "name": "Rummy Games All Official App",
+  "short_name": "Rummy Games All",
+  "description": "Complete Master Hub for All Indian Real Cash Rummy Apps 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0D2C",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
